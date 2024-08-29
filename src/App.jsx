@@ -6,8 +6,8 @@ const names = ['komeil','amir']
 
   return(
     <div>
-    <div className='text-5x1'>App</div>
-    {/* <p>hello {k}</p> */}
+    {/* <div className='text-5x1'>App</div> */}
+    <p>hello {k}</p>
     <p>
       the sum of {q} and {b} is {q+b}
     </p>
